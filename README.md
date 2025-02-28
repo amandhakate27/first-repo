@@ -1,2 +1,2 @@
 # first-repo
-This is practice repository.
+This is my practice repository.
